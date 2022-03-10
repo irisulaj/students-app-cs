@@ -1,0 +1,12 @@
+C:\Users\Iri\source\repos\gradesApp\bin\Debug\gradesApp.exe.config
+C:\Users\Iri\source\repos\gradesApp\bin\Debug\gradesApp.exe
+C:\Users\Iri\source\repos\gradesApp\bin\Debug\gradesApp.pdb
+C:\Users\Iri\source\repos\gradesApp\obj\Debug\gradesApp.csproj.AssemblyReference.cache
+C:\Users\Iri\source\repos\gradesApp\obj\Debug\gradesApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Iri\source\repos\gradesApp\obj\Debug\gradesApp.Properties.Resources.resources
+C:\Users\Iri\source\repos\gradesApp\obj\Debug\gradesApp.csproj.GenerateResource.cache
+C:\Users\Iri\source\repos\gradesApp\obj\Debug\gradesApp.csproj.CoreCompileInputs.cache
+C:\Users\Iri\source\repos\gradesApp\obj\Debug\gradesApp.exe
+C:\Users\Iri\source\repos\gradesApp\obj\Debug\gradesApp.pdb
+C:\Users\Iri\source\repos\gradesApp\obj\Debug\gradesApp.GradesForm.resources
+C:\Users\Iri\source\repos\gradesApp\obj\Debug\gradesApp.StudentForm.resources
